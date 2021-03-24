@@ -1,11 +1,3 @@
-''' LISTA 01 - EXERCICIO 06
-    Nome: Luiz Carlos Machi Lozano
-    Data: Agosto/2020
-    Enunciado:
-    Escreva o programa que receba o valor do salário, 
-    do aumento (%) e calcule o valor do novo salário.
-    Considere o salário de R$ 750,00 e o aumento de 15%.
-'''
 #Entrada de Dados:
 salario = float(input("Entre com o salario [R$]: "))
 aumento = float(input("Entre com o aumento [ %]: "))
